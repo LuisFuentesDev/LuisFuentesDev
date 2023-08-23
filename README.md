@@ -4,12 +4,15 @@ Hola a todos 👋 mi nombre es Luis Fuentes y soy Desarrollador Android Trainee,
 
 # Conocimientos
 
-- Android Studio
-- Java y Kotlin
-- MVVM
-- POO
-- Consumo de API
-- MySQL
+Mis habilidades y conocimientos incluyen:
+
+- ![Android Studio](https://img.shields.io/badge/Android%20Studio-Basic-green)
+- ![Java](https://img.shields.io/badge/Java-Basic-green)
+- ![Kotlin](https://img.shields.io/badge/Kotlin-Basic-green)
+- ![MVVM](https://img.shields.io/badge/MVVM-Basic-green)
+- ![POO](https://img.shields.io/badge/POO-Basic-green)
+- ![Consumo de API](https://img.shields.io/badge/Consumo%20de%20API-Basic-green)
+- ![MySQL](https://img.shields.io/badge/MySQL-Basic-green)
 
 <span align="right">
   <img src="https://media.giphy.com/media/YAPrs0Uf89nSU/giphy.gif" alt="GIF de Zelda" width="240" height="240" style="float:right;">
