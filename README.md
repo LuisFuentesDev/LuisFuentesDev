@@ -2,6 +2,8 @@
 
 Hola a todos 👋 mi nombre es Luis Fuentes y soy Desarrollador Android Trainee, actualmente vivo en la ciudad de Temuco, en la Región de la Araucanía, Chile.
 
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
 # Conocimientos
 
 Mis habilidades y conocimientos incluyen:
@@ -14,9 +16,11 @@ Mis habilidades y conocimientos incluyen:
 - ![Consumo de API](https://img.shields.io/badge/Consumo%20de%20API-Basic-green)
 - ![MySQL](https://img.shields.io/badge/MySQL-Basic-green)
 
-<span align="right">
-  <img src="https://media.giphy.com/media/YAPrs0Uf89nSU/giphy.gif" alt="GIF de Zelda" width="240" height="240" style="float:right;">
-</span>
+</div>
+  <div style="flex: 1; text-align: right;">
+    <img src="https://media.giphy.com/media/YAPrs0Uf89nSU/giphy.gif" alt="GIF de Zelda" width="240" height="240">
+  </div>
+</div>
 
 <br/>
 
