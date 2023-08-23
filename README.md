@@ -4,6 +4,7 @@ Hola a todos 👋 mi nombre es Luis Fuentes y soy Desarrollador Android Trainee,
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
+    
 # Conocimientos
 
 Mis habilidades y conocimientos incluyen:
