@@ -15,6 +15,8 @@ Hola a todos 👋 mi nombre es Luis Fuentes y soy Desarrollador Android Trainee,
    <a href="https://www.linkedin.com/in/proxdevluisfuentes/">
     <img src="https://img.shields.io/badge/Linkedin-luisFuentes-blue">
   </a>
+    <img src="https://img.shields.io/badge/lsfuentes2-gmail-red">
+  </a>
   
  
   
