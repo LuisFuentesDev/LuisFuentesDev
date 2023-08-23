@@ -2,7 +2,6 @@
 
 Hola a todos 👋 mi nombre es Luis Fuentes y soy Desarrollador Android Trainee, actualmente vivo en la ciudad de Temuco, en la Región de la Araucanía, Chile.
 
-
 # Conocimientos
 
 - Android Studio
@@ -11,7 +10,11 @@ Hola a todos 👋 mi nombre es Luis Fuentes y soy Desarrollador Android Trainee,
 - POO
 - Consumo de API
 - MySQL
-  
+
+<span align="right">
+  <img src="https://media.giphy.com/media/YAPrs0Uf89nSU/giphy.gif" alt="GIF de Zelda" width="240" height="240" style="float:right;">
+</span>
+
 <br/>
 
 <a href="https://github.com/LuisFuentesDev">
@@ -21,18 +24,14 @@ Hola a todos 👋 mi nombre es Luis Fuentes y soy Desarrollador Android Trainee,
 
 <br/>
 
-<iframe src="https://giphy.com/embed/YAPrs0Uf89nSU" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/art-legend-of-zelda-fanpop-YAPrs0Uf89nSU">via GIPHY</a></p>
-
 <h1 align="center">
 ✨ Donde encontrarme ✨
   <p align="center"><br/>
-   <a href="https://www.linkedin.com/in/proxdevluisfuentes/">
-    <img src="https://img.shields.io/badge/Linkedin-luisFuentes-blue">
-  </a>
-    <img src="https://img.shields.io/badge/lsfuentes2-gmail-red">
-  </a>
-  
- 
-  
-</p>
+    <a href="https://www.linkedin.com/in/proxdevluisfuentes/">
+      <img src="https://img.shields.io/badge/Linkedin-luisFuentes-blue">
+    </a>
+    <a href="mailto:lsfuentes2@gmail.com">
+      <img src="https://img.shields.io/badge/lsfuentes2-gmail-red">
+    </a>
+  </p>
 </h1>
