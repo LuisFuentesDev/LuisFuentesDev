@@ -23,7 +23,6 @@ Hola a todos 👋 mi nombre es Luis Fuentes y soy Desarrollador Android Trainee,
 </a>
 
 <br/>
-
 <h1 align="center">
 ✨ Donde encontrarme ✨
   <p align="center"><br/>
