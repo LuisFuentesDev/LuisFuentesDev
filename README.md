@@ -8,7 +8,10 @@ Hola a todos 👋 mi nombre es Luis Fuentes y soy Desarrollador Android Trainee,
 - Android Studio
 - Java y Kotlin
 - MVVM
-- 
+- POO
+- Consumo de API
+- MySQL
+  
 <br/>
 
 <a href="https://github.com/LuisFuentesDev">
