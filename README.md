@@ -8,6 +8,15 @@ Hola a todos 👋 mi nombre es Luis Fuentes y soy Desarrollador Android Trainee,
 - Android Studio
 - Java y Kotlin
 - MVVM
+- 
+<br/>
+
+<a href="https://github.com/LuisFuentesDev">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuisFuentesDev&theme=buefy&show_icons=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFuentesDev&theme=buefy&layout=compact" />
+</a>
+
+<br/>
 
 <h1 align="center">
 ✨ Donde encontrarme ✨
