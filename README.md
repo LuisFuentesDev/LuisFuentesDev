@@ -1,6 +1,6 @@
 # Acerca de mí
 
-Hola a todos 👋 mi nombre es Luis Fuentes y soy Desarrollador Android Trainee, actualmente vivo en la ciudad de Temuco, en la Región de la Araucanía, Chile.
+Hola a todos 👋 mi nombre es Luis Fuentes y soy Desarrollador Full Stack.
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
