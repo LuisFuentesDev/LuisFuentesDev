@@ -1,22 +1,10 @@
 # Acerca de mí
 
-Hola a todos 👋 mi nombre es Luis Fuentes y soy Desarrollador Full Stack.
+Soy Desarrollador Full Stack con cerca de 2 años de experiencia en desarrollo de software móvil, web y microservicios escalables en el sector bancario. Especializado en React Native, Angular, Vue, Node.js y Java con Spring Boot. Experto en documentación técnica, refactorización de código y optimización de rendimiento. Con experiencia de trabajo en equipos ágiles aplicando metodologías Scrum, CI/CD y herramientas de testing como Jest, JUnit y SonarQube.
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     
-# Conocimientos
-
-Mis habilidades y conocimientos incluyen:
-
-- ![Android Studio](https://img.shields.io/badge/Android%20Studio-Basic-green)
-- ![Java](https://img.shields.io/badge/Java-Basic-green)
-- ![Kotlin](https://img.shields.io/badge/Kotlin-Basic-green)
-- ![MVVM](https://img.shields.io/badge/MVVM-Basic-green)
-- ![POO](https://img.shields.io/badge/POO-Basic-green)
-- ![Consumo de API](https://img.shields.io/badge/Consumo%20de%20API-Basic-green)
-- ![MySQL](https://img.shields.io/badge/MySQL-Basic-green)
-
 </div>
   <div style="flex: 1; text-align: right;">
     <img src="https://media.giphy.com/media/YAPrs0Uf89nSU/giphy.gif" alt="GIF de Zelda" width="240" height="240">
